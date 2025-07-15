@@ -1,2 +1,4 @@
 # CMPT
 CMPT (Comment Promt Protocol) adalah sebuah terminal interaktif yang memungkinkan pengguna untuk menjalankan perintah sistem secara langsung. Dengan antarmuka yang sederhana dan menggunakan Python, CMPT dilengkapi dengan fitur notifikasi berwarna untuk menunjukkan status eksekusi perintah: hijau untuk sukses, kuning untuk peringatan, dan merah untuk error. Selain itu, CMPT menyediakan integrasi dengan tkinter untuk menampilkan popup notifikasi yang memudahkan pengguna dalam memonitor dan menanggapi hasil eksekusi perintah. Didesain untuk kemudahan penggunaan dan fleksibilitas dalam pengembangan aplikasi dan debugging.
+
+<a href="https://github.com/amrunkhakim/CMPT/releases/tag/installer">Download</a>
